@@ -1,0 +1,38 @@
+.navbar-brand{
+    background: url("https://metrisquare.nl/wp-content/uploads/2020/11/Logo-liggend-Metrisquare-2000x500-1.png");
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+    height: 150px;
+    width: 150px;
+}
+
+.orange{
+    background-color: #fa7823;
+}
+
+#jumbotron-top{
+    height: 400px;
+
+    background: url("https://www.highfocuscenters.com/wp-content/uploads/2018/07/bigstock-223650697.jpg");
+    background-position: 50% 5%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+    color: grey;
+    font-size: xx-large;
+    text-align: center;
+}
+
+#jumbotron-info{
+    background-color: rgba(12, 137, 145, 0.9);
+    color: white;
+    font-size: larger; 
+    text-align: center;  
+}
+
+.tuv{
+    width: 200px;
+    height: 100px;
+}
